@@ -1,4 +1,4 @@
-package org.example.models.sumofnumbers;
+package org.example.models.list.sumofnumbers;
 
 import java.util.ArrayList;
 import java.util.List;

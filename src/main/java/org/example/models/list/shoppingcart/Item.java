@@ -1,4 +1,4 @@
-package org.example.models.shoppingcart;
+package org.example.models.list.shoppingcart;
 
 public class Item {
     private String name;
